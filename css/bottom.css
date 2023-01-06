@@ -13,14 +13,29 @@
 
 .icp {
     color: black;
+    display: inline-block;
     text-align: center;
-    font-size: 16px;
+    height: 20px;
+    line-height: 20px;
+
 }
 
+#zjh {
+    margin-left: 25px;
+}
 
 .copy {
-    color: black;
+    color: #939393;
     display: block;
-    text-align: center;
+
     font-size: 12px;
+    width: auto;
 }
+
+.icp1 {
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+}
+
